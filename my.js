@@ -1,1 +1,1 @@
-console.log("This is a test file for logging purposes.");
+console.log("This is the git ignore test file.");
